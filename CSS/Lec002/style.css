@@ -1,0 +1,18 @@
+#body{
+    background-image: url("1.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px 500px;
+    background-position: center;
+}
+
+#box{
+    width: 400px;
+    height: 300px;
+    border-width: 5px;
+    /* 
+    border-top-width:
+    */
+    border-style: solid;
+    border-color: red;
+}
