@@ -1,0 +1,7 @@
+#doc-con{
+    background: url(1.jfif) no-repeat top right;
+    background-attachment:scroll;
+    border: 2px solid;
+    height: 300px;
+    overflow: auto;
+}

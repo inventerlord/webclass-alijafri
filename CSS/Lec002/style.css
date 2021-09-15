@@ -10,9 +10,9 @@
     width: 400px;
     height: 300px;
     border-width: 5px;
-    /* 
-    border-top-width:
-    */
+     
+    border-top-width:20px;
+    
     border-style: solid;
     border-color: red;
 }
