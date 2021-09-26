@@ -1,0 +1,30 @@
+.para{
+    padding: 10px;
+    background-color: #666;
+    border-radius: 20px;
+    color: white;
+}
+
+.red{
+    color:rgb(252, 3, 61) !important;
+
+}
+.just{
+    text-align: justify;
+}
+
+
+.rtl{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: justify;
+}
+
+.va img{
+    /* vertical-align: baseline; */
+    /* vertical-align: bottom; */
+    /* vertical-align: top; */
+    /* vertical-align: top; */
+    vertical-align: text-top;
+
+}
