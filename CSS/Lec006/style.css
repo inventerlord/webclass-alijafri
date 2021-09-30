@@ -1,0 +1,42 @@
+span{
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: overline; */
+    text-decoration: none;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.c{
+    text-transform: capitalize;
+}
+.u{
+    text-transform: uppercase;
+}
+.l{
+    text-transform: lowercase;
+}
+
+p{
+    /* text-align: justify; */
+}
+.ind{
+    text-indent: 20px;
+}
+
+.ls{
+    letter-spacing:-1px;
+}
+
+.ws{
+    word-spacing: -5px ;
+    /* white-space: pre-wrap; */
+}
+
+.lh{
+    line-height: 10px;
+}
