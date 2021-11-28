@@ -1,0 +1,20 @@
+body{
+    font-size: 20px;
+}
+.container{
+    text-align: center;
+    margin: 100px 25px 0;
+    box-shadow: 0 0 20px #555;
+    padding: 10px;
+}
+.container *{
+    font-size: 3em;
+}
+.shadow{
+    text-shadow: 0 0 10px #e25353;
+    /*font-family: Cursive,sans-serif;*/
+    font-family: 'alifont', cursive;
+    /*font-style: italic;*/
+    font-weight: 500;
+    font-variant: small-caps;
+}
