@@ -3,14 +3,18 @@
     /* border-radius: 50%; */
     width: max-content;
     margin: 0 auto 0 auto;
-    /* padding-top: 10px;
+    /* 
+    padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    padding-left: 20px; */
+    padding-left: 20px; 
+    */
     padding: 10px;
-    /* padding: 10px 2px;
+    /* 
+    padding: 10px 2px;
     padding: 10px 20px 30px;
-    padding: 10px 20px 30px 10px; */
+    padding: 10px 20px 30px 10px; 
+    */
     outline-style: ridge;
     outline-color: aqua;
     outline-width: 5px;
